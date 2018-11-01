@@ -1,2 +1,2 @@
 # GeekWorld
-![[baidu]Image text](https://github.com/jokoperu/GeekWorld/blob/master/wx.jpg?raw=true)
+![Image text](https://github.com/jokoperu/GeekWorld/blob/master/wx.jpg?raw=true "百度logo")
